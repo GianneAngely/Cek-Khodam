@@ -15,7 +15,7 @@ Well, my friend, because who doesn't want to know their inner khodam? I mean, it
 ## Screenshot 📸
 
 Here’s what the magic looks like in action:  
-![Project Screenshot](link-to-your-screenshot)
+![Project Screenshot](ss_1)
 
 ## Live Demo 🚀
 
